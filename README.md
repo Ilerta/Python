@@ -1,3 +1,3 @@
-Ici je publie les projets python que j'ai réalisé moi même
-J'ai commencé récemment à apprendre le python car j'ai trouvé ce langage très interressant et complet
+Ici je publie les projets python que j'ai réalisé moi même.
+J'ai commencé récemment à apprendre le python car j'ai trouvé ce langage très interressant et complet.
 Si certaines personnes lisent ceci et sont expérimentées, j'accepte touts conseils, des améliorations pour mes projets etc...
